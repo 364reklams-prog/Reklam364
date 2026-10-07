@@ -1,0 +1,11 @@
+{
+  "name":"REKLAM 364 Dijital Baskı Sipariş",
+  "short_name":"REKLAM 364",
+  "start_url":"./REKLAM_364_Dijital_Baski_Siparis_Uygulamasi.html",
+  "display":"standalone",
+  "background_color":"#f4f6f8",
+  "theme_color":"#e30613",
+  "lang":"tr",
+  "description":"REKLAM 364 dijital baskı sipariş ve kayıt uygulaması",
+  "icons":[{"src":"logo.jpg","sizes":"192x192","type":"image/jpeg"},{"src":"logo.jpg","sizes":"512x512","type":"image/jpeg"}]
+}
